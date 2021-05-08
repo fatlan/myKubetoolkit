@@ -29,7 +29,7 @@ Rancher - [Complete Kubernetes+Container management platform](https://github.com
 
 Kube-shell - [An integrated shell for working with the Kubernetes CLI](https://github.com/cloudnativelabs/kube-shell) <br>
 
-Ceph Storage - [Ceph cluster and enable you to consume block, object, and file storage fot Kubernetes](https://rook.io/docs/rook/v1.5/ceph-quickstart.html) <br>
+Rook - Ceph Storage - [Ceph cluster and enable you to consume block, object, and file storage fot Kubernetes](https://rook.io/docs/rook/v1.5/ceph-quickstart.html) <br>
 
 Longhorn - [Longhorn is a distributed block storage system for Kubernetes](https://github.com/longhorn/longhorn) <br>
 
