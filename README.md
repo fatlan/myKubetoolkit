@@ -53,6 +53,9 @@ Sloop - [About Kubernetes History Visualization](https://github.com/salesforce/s
 
 Kubevious - [Kubevious - application centric Kubernetes UI and continuous assurance provider](https://github.com/kubevious/kubevious) <br>
 
+Ksniff - [Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark ](https://github.com/eldadru/ksniff) <br>
+
+Kubetail - [Bash script to tail Kubernetes logs from multiple pods at the same time ](https://github.com/johanhaleby/kubetail) <br>
 
 <br>
 
