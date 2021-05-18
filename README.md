@@ -57,6 +57,10 @@ Ksniff - [Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and w
 
 Kubetail - [Bash script to tail Kubernetes logs from multiple pods at the same time ](https://github.com/johanhaleby/kubetail) <br>
 
+Krew - [Krew is the package manager(find and install) for kubectl plugins](https://github.com/kubernetes-sigs/krew) <br>
+
+Kubelogin - [kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)](https://github.com/int128/kubelogin) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
