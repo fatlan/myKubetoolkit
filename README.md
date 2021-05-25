@@ -7,6 +7,8 @@ Teminator - [At its simplest Terminator is a terminal emulator like xterm, gnome
 
 Visual Studio Code - [Is a code editor redefined and optimized for building and debugging modern web and cloud applications](https://code.visualstudio.com/download) <br>
 
+GitKraken - [Unleash GitKraken, the free Git GUI for Windows, Mac & Linux! This intuitive Git GUI simplifies and streamlines Git processes](https://www.gitkraken.com/download) <br>
+
 Lens - [The Kubernetes IDE](https://github.com/lensapp/lens) <br>
 
 Portainer - [Is an open source tool for managing containerized(Kubernetes, Docker, Docker Swarm) applications](https://github.com/portainer/k8s) <br>
