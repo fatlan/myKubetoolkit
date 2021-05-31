@@ -23,6 +23,8 @@ Web Kubectl - [Run kubectl command in web browser](https://github.com/KubeOperat
 
 Weave Scope - [Troubleshooting & Monitoring for Docker & Kubernetes](https://github.com/weaveworks/scope) <br>
 
+Kubeview - [Kubernetes cluster visualiser and graphical explorer](https://github.com/benc-uk/kubeview) <br>
+
 Kubebox - [Terminal and Web console for Kubernetes](https://github.com/astefanutti/kubebox) <br>
 
 Kubewatch - [Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels](https://github.com/bitnami-labs/kubewatch) <br>
