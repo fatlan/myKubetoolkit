@@ -67,6 +67,8 @@
 
 32- Kubelogin - [kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)](https://github.com/int128/kubelogin) <br>
 
+33- MinIO - [ High Performance, Kubernetes Native Object Storage ](https://github.com/minio/minio) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
