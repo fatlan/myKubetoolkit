@@ -27,7 +27,7 @@
 
 12- Kubeview - [Kubernetes cluster visualiser and graphical explorer](https://github.com/benc-uk/kubeview) <br>
 
-13- Kubebox - [Terminal and Web console for Kubernetes](https://github.com/astefanutti/kubebox) <br>
+13- Kubebox - kube.sh - [Terminal and Web console for Kubernetes](https://github.com/astefanutti/kubebox) <br>
 
 14- Kubewatch - [Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels](https://github.com/bitnami-labs/kubewatch) <br>
 
