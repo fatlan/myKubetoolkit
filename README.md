@@ -59,17 +59,21 @@
 
 28- Kubevious - [Kubevious - application centric Kubernetes UI and continuous assurance provider](https://github.com/kubevious/kubevious) <br>
 
-29- Ksniff - [Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark ](https://github.com/eldadru/ksniff) <br>
+29- Ksniff - [Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff) <br>
 
 30- Kubetail - [Bash script to tail Kubernetes logs from multiple pods at the same time ](https://github.com/johanhaleby/kubetail) <br>
 
 31- Krew - [Krew is the package manager(find and install) for kubectl plugins](https://github.com/kubernetes-sigs/krew) <br>
 
-32- Kubelogin - [kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)](https://github.com/int128/kubelogin) <br>
+32- Kubelogin - [Kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)](https://github.com/int128/kubelogin) <br>
 
-33- MinIO - [ High Performance, Kubernetes Native Object Storage ](https://github.com/minio/minio) <br>
+33- MinIO - [High Performance, Kubernetes Native Object Storage](https://github.com/minio/minio) <br>
 
 34- Headlamp - [An easy-to-use and extensible web UI for Kubernetes brought to you by Kinvolk](https://github.com/kinvolk/headlamp) <br>
+
+35 - KubeVirt - [Kubernetes Virtualization API and runtime in order to define and manage virtual machines](https://github.com/kubevirt/kubevirt) <br>
+
+36 - Kvdi - [A Kubernetes-native Virtual Desktop Infrastructure](https://github.com/kvdi/kvdi) <br>
 
 <br>
 
