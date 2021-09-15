@@ -71,11 +71,11 @@
 
 34- Headlamp - [An easy-to-use and extensible web UI for Kubernetes brought to you by Kinvolk](https://github.com/kinvolk/headlamp) <br>
 
-35 - KubeVirt - [Kubernetes Virtualization API and runtime in order to define and manage virtual machines](https://github.com/kubevirt/kubevirt) <br>
+35- KubeVirt - [Kubernetes Virtualization API and runtime in order to define and manage virtual machines](https://github.com/kubevirt/kubevirt) <br>
 
-36 - Kvdi - [A Kubernetes-native Virtual Desktop Infrastructure](https://github.com/kvdi/kvdi) <br>
+36- Kvdi - [A Kubernetes-native Virtual Desktop Infrastructure](https://github.com/kvdi/kvdi) <br>
 
-37- kubelive - [kubectl tool reinvented to be more reactive and interactive](https://github.com/ameerthehacker/kubelive) <br>
+37- Kubelive - [kubectl tool reinvented to be more reactive and interactive](https://github.com/ameerthehacker/kubelive) <br>
 
 38- Eclipse Che - [The Kubernetes-Native IDE for Developer Teams](https://github.com/eclipse/che) <br>
 
@@ -85,7 +85,7 @@
 
 41- Tilt - [A multi-service dev environment for teams on Kubernetes](https://github.com/tilt-dev/tilt) <br>
 
-42- cdk8s - [Define Kubernetes native apps and abstractions using object-oriented programming](https://github.com/cdk8s-team/cdk8s) <br>
+42- Cdk8s - [Define Kubernetes native apps and abstractions using object-oriented programming](https://github.com/cdk8s-team/cdk8s) <br>
 
 <br>
 
