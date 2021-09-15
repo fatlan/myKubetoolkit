@@ -75,6 +75,18 @@
 
 36 - Kvdi - [A Kubernetes-native Virtual Desktop Infrastructure](https://github.com/kvdi/kvdi) <br>
 
+37- kubelive - [kubectl tool reinvented to be more reactive and interactive](https://github.com/ameerthehacker/kubelive) <br>
+
+38- Eclipse Che - [The Kubernetes-Native IDE for Developer Teams](https://github.com/eclipse/che) <br>
+
+39- Okteto - [Develop your applications directly in your Kubernetes Cluster](https://github.com/okteto/okteto) <br>
+
+40- Garden - [Automation for Kubernetes development and testing](https://github.com/garden-io/garden) <br>
+
+41- Tilt - [A multi-service dev environment for teams on Kubernetes](https://github.com/tilt-dev/tilt) <br>
+
+42- cdk8s - [Define Kubernetes native apps and abstractions using object-oriented programming](https://github.com/cdk8s-team/cdk8s) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
