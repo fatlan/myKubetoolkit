@@ -87,6 +87,10 @@
 
 42- Cdk8s - [Define Kubernetes native apps and abstractions using object-oriented programming](https://github.com/cdk8s-team/cdk8s) <br>
 
+43- Skaffold - [Easy and Repeatable Kubernetes Development, a command line tool that facilitates continuous development for Kubernetes applications](https://github.com/GoogleContainerTools/skaffold) <br>
+
+44- Kubenav - [kubenav is the navigator for your Kubernetes clusters right in your pocket](https://github.com/kubenav/kubenav) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
