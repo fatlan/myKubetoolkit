@@ -91,6 +91,8 @@
 
 44- Kubenav - [kubenav is the navigator for your Kubernetes clusters right in your pocket](https://github.com/kubenav/kubenav) <br>
 
+45- K0s - [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
