@@ -89,9 +89,11 @@
 
 43- Skaffold - [Easy and Repeatable Kubernetes Development, a command line tool that facilitates continuous development for Kubernetes applications](https://github.com/GoogleContainerTools/skaffold) <br>
 
-44- Kubenav - [kubenav is the navigator for your Kubernetes clusters right in your pocket](https://github.com/kubenav/kubenav) <br>
+44- Kubenav - [The navigator for your Kubernetes clusters right in your pocket](https://github.com/kubenav/kubenav) <br>
 
 45- K0s - [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s) <br>
+
+46- Kubescape - [The first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA](https://github.com/armosec/kubescape) <br>
 
 <br>
 
