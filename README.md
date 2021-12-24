@@ -95,6 +95,8 @@
 
 46- Kubescape - [The first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA](https://github.com/armosec/kubescape) <br>
 
+47- dozzle - [Realtime log viewer for docker containers](https://github.com/amir20/dozzle) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
