@@ -97,6 +97,8 @@
 
 47- dozzle - [Realtime log viewer for docker containers](https://github.com/amir20/dozzle) <br>
 
+48 - mizu - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
