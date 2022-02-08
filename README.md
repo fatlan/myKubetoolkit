@@ -99,6 +99,8 @@
 
 48 - mizu - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
 
+49- BotKube - [Is a messaging bot for monitoring and debugging Kubernetes clusters](https://github.com/infracloudio/botkube) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
