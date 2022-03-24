@@ -7,7 +7,7 @@
 
 2- Visual Studio Code - [Is a code editor redefined and optimized for building and debugging modern web and cloud applications](https://code.visualstudio.com/download) <br>
 
-3- GitKraken - [Unleash GitKraken, the free Git GUI for Windows, Mac & Linux! This intuitive Git GUI simplifies and streamlines Git processes](https://www.gitkraken.com/download) <br>
+3- Git Bash - [Git is a version control system designed to handle everything from small to very large projects with speed and efficiency](https://git-scm.com/) <br>
 
 4- Lens - [The Kubernetes IDE](https://github.com/lensapp/lens) <br>
 
