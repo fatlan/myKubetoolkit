@@ -94,19 +94,17 @@ Metrics Server - [Scalable and efficient source of container resource metrics fo
 
 45- Kubenav - [The navigator for your Kubernetes clusters right in your pocket](https://github.com/kubenav/kubenav) <br>
 
-46- K0s - [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s) <br>
+46- Kubescape - [The first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA](https://github.com/armosec/kubescape) <br>
 
-47- Kubescape - [The first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA](https://github.com/armosec/kubescape) <br>
+47- dozzle - [Realtime log viewer for docker containers](https://github.com/amir20/dozzle) <br>
 
-48- dozzle - [Realtime log viewer for docker containers](https://github.com/amir20/dozzle) <br>
+48- mizu - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
 
-49 - mizu - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
+49- BotKube - [Is a messaging bot for monitoring and debugging Kubernetes clusters](https://github.com/infracloudio/botkube) <br>
 
-50- BotKube - [Is a messaging bot for monitoring and debugging Kubernetes clusters](https://github.com/infracloudio/botkube) <br>
+50- Istio - [Connect, secure, control, and observe services](https://github.com/istio/istio) <br>
 
-51- Istio - [Connect, secure, control, and observe services](https://github.com/istio/istio) <br>
-
-52- Vault - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault) <br>
+51- Vault - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault) <br>
 
 <br>
 
