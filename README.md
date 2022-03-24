@@ -103,6 +103,10 @@
 
 50- BotKube - [Is a messaging bot for monitoring and debugging Kubernetes clusters](https://github.com/infracloudio/botkube) <br>
 
+51- Istio - [Connect, secure, control, and observe services](https://github.com/istio/istio) <br>
+
+52- Vault - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
