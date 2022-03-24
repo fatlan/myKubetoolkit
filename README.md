@@ -11,7 +11,8 @@
 
 4- Lens - [The Kubernetes IDE](https://github.com/lensapp/lens) <br>
 
-5- Kubernetes Dashboard - [General-purpose web UI for Kubernetes clusters](https://github.com/kubernetes/dashboard) <br>
+5- Kubernetes Dashboard - [General-purpose web UI for Kubernetes clusters](https://github.com/kubernetes/dashboard) | 
+Metrics Server - [Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines](https://github.com/kubernetes-sigs/metrics-server) <br>
 
 6- Portainer - [Is an open source tool for managing containerized(Kubernetes, Docker, Docker Swarm) applications](https://github.com/portainer/k8s) <br>
 
