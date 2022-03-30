@@ -106,6 +106,8 @@ Metrics Server - [Scalable and efficient source of container resource metrics fo
 
 51- Vault - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault) <br>
 
+52- krew - [Find and install kubectl plugins](https://github.com/kubernetes-sigs/krew) <br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
