@@ -96,9 +96,9 @@ Metrics Server - [Scalable and efficient source of container resource metrics fo
 
 46- Kubescape - [The first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA](https://github.com/armosec/kubescape) <br>
 
-47- dozzle - [Realtime log viewer for docker containers](https://github.com/amir20/dozzle) <br>
+47- Dozzle - [Realtime log viewer for docker containers](https://github.com/amir20/dozzle) <br>
 
-48- mizu - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
+48- Mizu - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
 
 49- BotKube - [Is a messaging bot for monitoring and debugging Kubernetes clusters](https://github.com/infracloudio/botkube) <br>
 
@@ -106,7 +106,11 @@ Metrics Server - [Scalable and efficient source of container resource metrics fo
 
 51- Vault - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault) <br>
 
-52- krew - [Find and install kubectl plugins](https://github.com/kubernetes-sigs/krew) <br>
+52- Krew - [Find and install kubectl plugins](https://github.com/kubernetes-sigs/krew) <br>
+
+53- KrakenD - [Extensible, ultra-high performance API Gateway](https://github.com/devopsfaith/krakend-ce) <br>
+
+54- Kong - [Cloud-native, platform-agnostic, scalable API Gateway](https://github.com/kong/kong) <b>
 
 <br>
 
