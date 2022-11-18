@@ -112,6 +112,12 @@ Metrics Server - [Scalable and efficient source of container resource metrics fo
 
 54- Kong - [Cloud-native, platform-agnostic, scalable API Gateway](https://github.com/kong/kong) <b>
 
+55- Helm Dashboard - [The missing UI for Helm - visualize your releases](https://github.com/komodorio/helm-dashboard)<br>
+
+56- Zipkin - [Zipkin is a distributed tracing system](https://github.com/openzipkin/zipkin)<br>
+
+57- Jaeger - [CNCF Jaeger, a Distributed Tracing Platform](https://github.com/jaegertracing/jaeger)<br>
+
 <br>
 
 [and more](https://collabnix.github.io/kubetools/)
