@@ -98,7 +98,7 @@ Metrics Server - [Scalable and efficient source of container resource metrics fo
 
 47- Dozzle - [Realtime log viewer for docker containers](https://github.com/amir20/dozzle) <br>
 
-48- Mizu - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
+48- Kubeshark - [API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes ](https://github.com/up9inc/mizu) <br>
 
 49- BotKube - [Is a messaging bot for monitoring and debugging Kubernetes clusters](https://github.com/infracloudio/botkube) <br>
 
